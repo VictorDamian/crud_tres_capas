@@ -1,0 +1,45 @@
+C:\Users\Dantes\source\repos\LayeredAppli\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Dantes\source\repos\LayeredAppli\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Dantes\source\repos\LayeredAppli\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Dantes\source\repos\LayeredAppli\Presentacion\bin\Debug\Domain.dll
+C:\Users\Dantes\source\repos\LayeredAppli\Presentacion\bin\Debug\DataAccess.dll
+C:\Users\Dantes\source\repos\LayeredAppli\Presentacion\bin\Debug\Domain.pdb
+C:\Users\Dantes\source\repos\LayeredAppli\Presentacion\bin\Debug\DataAccess.pdb
+C:\Users\Dantes\source\repos\LayeredAppli\Presentacion\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Dantes\source\repos\LayeredAppli\Presentacion\obj\Debug\Presentacion.Forms.FormEmployee.resources
+C:\Users\Dantes\source\repos\LayeredAppli\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Dantes\source\repos\LayeredAppli\Presentacion\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Dantes\source\repos\LayeredAppli\Presentacion\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Dantes\source\repos\LayeredAppli\Presentacion\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Dantes\source\repos\LayeredAppli\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Dantes\source\repos\LayeredAppli\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\Presentacion\bin\Debug\Domain.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\Presentacion\bin\Debug\DataAccess.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\Presentacion\bin\Debug\Domain.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\Presentacion\bin\Debug\DataAccess.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\Presentacion\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\Presentacion\obj\Debug\Presentacion.Forms.FormEmployee.resources
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\Presentacion\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\Presentacion\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\Presentacion\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\Presentacion\bin\Debug\Domain.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\Presentacion\bin\Debug\DataAccess.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\Presentacion\bin\Debug\Domain.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\Presentacion\bin\Debug\DataAccess.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\Presentacion\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\Presentacion\obj\Debug\Presentacion.Forms.FormEmployee.resources
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\Presentacion\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\Presentacion\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\Presentacion\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\Presentacion\obj\Debug\Presentacion.pdb

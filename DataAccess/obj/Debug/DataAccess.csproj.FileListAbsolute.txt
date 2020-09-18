@@ -1,0 +1,18 @@
+C:\Users\Dantes\source\repos\LayeredAppli\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Dantes\source\repos\LayeredAppli\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Dantes\source\repos\LayeredAppli\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Dantes\source\repos\LayeredAppli\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Dantes\source\repos\LayeredAppli\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Dantes\source\repos\LayeredAppli\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\DataAccess\obj\Debug\DataAccess.pdb

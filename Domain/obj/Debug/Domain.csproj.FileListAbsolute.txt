@@ -1,0 +1,27 @@
+C:\Users\Dantes\source\repos\LayeredAppli\Domain\bin\Debug\Domain.dll
+C:\Users\Dantes\source\repos\LayeredAppli\Domain\bin\Debug\Domain.pdb
+C:\Users\Dantes\source\repos\LayeredAppli\Domain\bin\Debug\DataAccess.dll
+C:\Users\Dantes\source\repos\LayeredAppli\Domain\bin\Debug\DataAccess.pdb
+C:\Users\Dantes\source\repos\LayeredAppli\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Dantes\source\repos\LayeredAppli\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dantes\source\repos\LayeredAppli\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\Dantes\source\repos\LayeredAppli\Domain\obj\Debug\Domain.dll
+C:\Users\Dantes\source\repos\LayeredAppli\Domain\obj\Debug\Domain.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\Domain\bin\Debug\Domain.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\Domain\bin\Debug\Domain.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\Domain\bin\Debug\DataAccess.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\Domain\bin\Debug\DataAccess.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\Domain\obj\Debug\Domain.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredAppli\Domain\obj\Debug\Domain.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\Domain\bin\Debug\Domain.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\Domain\bin\Debug\Domain.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\Domain\bin\Debug\DataAccess.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\Domain\bin\Debug\DataAccess.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\Domain\obj\Debug\Domain.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\Domain\obj\Debug\Domain.pdb

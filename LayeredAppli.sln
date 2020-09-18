@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "Presentacion\Presentation.csproj", "{9691270D-0DB8-4F62-B248-02B0EE985F47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{E2F4F893-9512-4426-8B5D-6EEF55A728C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{226A6A72-7524-41BF-A4B2-E0F0A550B3ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9691270D-0DB8-4F62-B248-02B0EE985F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9691270D-0DB8-4F62-B248-02B0EE985F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9691270D-0DB8-4F62-B248-02B0EE985F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9691270D-0DB8-4F62-B248-02B0EE985F47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2F4F893-9512-4426-8B5D-6EEF55A728C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2F4F893-9512-4426-8B5D-6EEF55A728C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2F4F893-9512-4426-8B5D-6EEF55A728C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2F4F893-9512-4426-8B5D-6EEF55A728C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{226A6A72-7524-41BF-A4B2-E0F0A550B3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226A6A72-7524-41BF-A4B2-E0F0A550B3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226A6A72-7524-41BF-A4B2-E0F0A550B3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{226A6A72-7524-41BF-A4B2-E0F0A550B3ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBCEB0A2-5B86-48D1-8197-3202064E8FCE}
+	EndGlobalSection
+EndGlobal
