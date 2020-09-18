@@ -35,15 +35,8 @@ total int,
 fecha varchar(max)not null
 )
 
-insert into trabajos values('vic','4556','mena','silla','12','10','22','24/10/2010')
-
 insert into Employee values ('6587542361','Juan Gabriel','Juan@gmail.com','24/05/2000')
 insert into Employee values ('6587542362','Gonazalo','Gonazalo@gmail.com','24/05/2000')
 insert into Employee values ('6587542363','Marta','Marta@gmail.com','24/05/2000')
 insert into Employee values ('6587542364','Lisandro','Lisandro@gmail.com','24/05/2000')
 insert into Employee values ('6587542365','Anna Maria','Anna@gmail.com','24/05/2000')
-
-insert into Users values ('dantes','1234','Victor Manuel','Damian','Administrador','vim@gmail.com')
-insert into Users values ('ashen','1234','Victor Manuel','Damian','Administrador','vim15damian@gmail.com')
-select *from Employee
-select*from Users
