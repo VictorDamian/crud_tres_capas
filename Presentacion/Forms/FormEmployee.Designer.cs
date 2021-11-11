@@ -111,7 +111,7 @@
             // 
             // btnSave
             // 
-            this.btnSave.BackColor = System.Drawing.Color.LightGreen;
+            this.btnSave.BackColor = System.Drawing.Color.DodgerBlue;
             this.btnSave.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSave.Location = new System.Drawing.Point(6, 178);
             this.btnSave.Name = "btnSave";
@@ -166,6 +166,7 @@
             // 
             this.btnRemove.BackColor = System.Drawing.Color.Brown;
             this.btnRemove.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnRemove.ForeColor = System.Drawing.SystemColors.Control;
             this.btnRemove.Location = new System.Drawing.Point(245, 333);
             this.btnRemove.Name = "btnRemove";
             this.btnRemove.Size = new System.Drawing.Size(112, 38);
@@ -176,7 +177,7 @@
             // 
             // btnEdit
             // 
-            this.btnEdit.BackColor = System.Drawing.Color.RoyalBlue;
+            this.btnEdit.BackColor = System.Drawing.Color.SpringGreen;
             this.btnEdit.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnEdit.Location = new System.Drawing.Point(363, 333);
             this.btnEdit.Name = "btnEdit";

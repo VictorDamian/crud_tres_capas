@@ -16,3 +16,15 @@ C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Layered
 C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\DataAccess\obj\Debug\DataAccess.dll
 C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredAppli\DataAccess\obj\Debug\DataAccess.pdb
+D:\proyectos\IM - github(list9)\C#.NET\LayeredAppli\DataAccess\bin\Debug\DataAccess.dll
+D:\proyectos\IM - github(list9)\C#.NET\LayeredAppli\DataAccess\bin\Debug\DataAccess.pdb
+D:\proyectos\IM - github(list9)\C#.NET\LayeredAppli\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\proyectos\IM - github(list9)\C#.NET\LayeredAppli\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\proyectos\IM - github(list9)\C#.NET\LayeredAppli\DataAccess\obj\Debug\DataAccess.dll
+D:\proyectos\IM - github(list9)\C#.NET\LayeredAppli\DataAccess\obj\Debug\DataAccess.pdb
+D:\proyectos\IM - github\C#.NET\LayeredAppli\DataAccess\bin\Debug\DataAccess.dll
+D:\proyectos\IM - github\C#.NET\LayeredAppli\DataAccess\bin\Debug\DataAccess.pdb
+D:\proyectos\IM - github\C#.NET\LayeredAppli\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\proyectos\IM - github\C#.NET\LayeredAppli\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\proyectos\IM - github\C#.NET\LayeredAppli\DataAccess\obj\Debug\DataAccess.dll
+D:\proyectos\IM - github\C#.NET\LayeredAppli\DataAccess\obj\Debug\DataAccess.pdb
