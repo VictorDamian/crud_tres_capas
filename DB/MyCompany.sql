@@ -23,18 +23,6 @@ Birthday date not null
 )
 go
 
-create table trabajos(
-id int identity(1,1) primary key,
-nom varchar(80)not null,
-num varchar(20)not null,
-dire varchar(50)not null,
-tra varchar(max)not null,
-anti varchar(20)not null,
-sal varchar(20)not null,
-total int,
-fecha varchar(max)not null
-)
-
 insert into Employee values ('6587542361','Juan Gabriel','Juan@gmail.com','2004-05-29')
 insert into Employee values ('6587542362','Gonazalo','Gonazalo@gmail.com','24/05/2000')
 insert into Employee values ('6587542363','Marta','Marta@gmail.com','24/05/2000')
@@ -43,4 +31,3 @@ insert into Employee values ('6587542365','Anna Maria','Anna@gmail.com','24/05/2
 
 select*from Employee
 select*from Users
-select*from trabajos

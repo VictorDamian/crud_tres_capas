@@ -1,4 +1,4 @@
-# CRUD en WindowsForm | SQLServer - StoredProcedure - ENCRYPTBYPASSPHRASE | C# | POO - 3CAPAS
+# CRUD en WindowsForm | SQLServer | C# | POO - 3CAPAS
 
 ![Formulario](https://github.com/VictorDamian/crud_tres_capas/blob/master/img/inicio.png)
 
